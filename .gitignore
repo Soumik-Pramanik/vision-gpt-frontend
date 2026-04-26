@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.env
+
+# Node
+vision_gpt_frontend/node_modules/
+vision_gpt_frontend/dist/
+
+# macOS artifacts
+__MACOSX/
+
+# Misc
+*.log
+.DS_Store
